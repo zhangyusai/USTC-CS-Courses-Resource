@@ -1,4 +1,4 @@
-# 通知: 为了便于更好的管理,维护,拓展, 我把仓库搬迁到[新仓库](https://github.com/USTC-Courses/CS),最新的资料整理与更新都在那里,大家以后可以访问新仓库, 此仓库不再维护
+# 通知: 为了便于更好的管理,维护,拓展, 我建了一个org（方便一后其他院的同学也想像这样整理资料）， 然后建了个[新仓库](https://github.com/USTC-Courses/CS),这两个cs仓库同步更新
 
 # 这是[网页浏览版](https://mbinary.coding.me/ustc-cs/)(感觉没什么用)
 ---
