@@ -10,9 +10,7 @@
 * 学习心得与经验
 
 # [贡献者名单](https://github.com/USTC-Courses/CS/graphs/contributors)
-# [仓库动态](https://github.com/USTC-Courses/CS/pulse)
 # [网页浏览版](https://mbinary.coding.me/ustc-cs/)
-<<<<<<< HEAD
 
 # 管理与投稿
 非常欢迎大家的参与与贡献
@@ -27,7 +25,6 @@
 
 我们希望你有责任,有耐心, 有奉献精神.
 
-=======
 
 # 管理与投稿
 非常欢迎大家的参与与贡献
@@ -42,7 +39,6 @@
 
 我们希望你有责任,有耐心, 有奉献精神.
 
->>>>>>> 7d79d637e4beeeae8e8d03ba2eafb5da7dec6a85
 # 课程目录
 ```
  tmp
