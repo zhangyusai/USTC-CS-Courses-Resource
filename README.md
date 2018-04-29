@@ -21,7 +21,7 @@
 * 一些课程虽然在目录中,但是资源还是较少,不齐全,希望大家积极贡献
 * 管理的工作量还是比较大的(目前,初期),希望能有人帮忙(collaborator),我将不胜感激
 * 希望对这个项目感兴趣的同学帮忙宣传,有看法的同学提出建议(通过issue,email,或者qq私聊)
-* 如果其他学院的同学感兴趣,可以在ustc-courses这个org中新建属于其他学院的repo,管理与维护
+* 如果其他学院的同学感兴趣,可以在[ustc-courses](https://github.com/USTC-Courses/CS)这个org中新建属于其他学院的repo,管理与维护
 
 # [贡献者名单](https://github.com/USTC-Courses/CS/graphs/contributors)
 
@@ -29,11 +29,37 @@
 
 # 课程结构
 每门课程大致结构如下,某些栏目可有可无
-* PPT
-* homework & lab
-* reference & textbook
-* 课程主页
-* 学习心得与经验
+* PPT(若有多个老师,在ppt目录下新建各个老师的目录)
+* homework & lab(一个或两个目录)
+* reference & textbook(这些可以不用新建目录,直接在课程目录下)
+* 课程主页(记在 课程/README.md 中
+* 心得与经验
+* students(一些同学的参考, 每个同学新建一个目录
+* 文件多于3个的目录下都有个zip文件:`.*?__等当前目录下的\d+个文件.zip`, 这样方便同学们一键下载
+如`数据结构`课程
+
+```
+├ lab
+│   ├ bankSimulation
+│   ├ huffman
+│   ├ navigation
+│   └ polynomial
+├ ppt
+│   ├ ch3.ppt
+│   ├ ch3__等当前目录下的8个文件.zip
+│   ├ ch6.pps
+│   ├ ch7.pps
+│   ├ ch9.pps
+│   ├ chapter1：绪论(Ver1.0 3学时).ppt
+│   ├ chapter2：线性表（Ver 0.5 8学时）.ppt
+│   ├ 数据结构c语言版严蔚敏PPT.ppt
+│   └ 第十章排序2015.ppt
+├ students
+│   └ readme.md
+├ 心得与体验
+├ 数据结构c_严蔚敏.pdf
+└ 数据结构习题集答案(C语言版严蔚敏)_ca332.pdf
+```
 
 # 课程目录
 ```
