@@ -28,7 +28,7 @@
 # [网页浏览版](https://mbinary.coding.me/ustc-cs/)
 
 # 课程结构
-每门课程大致结构如下,某些栏目可有可无
+每门课程大致结构如下,有些栏目可能没有,也可以自己添加认为合理的栏目
 * PPT(若有多个老师,在ppt目录下新建各个老师的目录)
 * homework & lab(一个或两个目录)
 * reference & textbook(这些可以不用新建目录,直接在课程目录下)
@@ -36,14 +36,13 @@
 * 心得与经验
 * students(一些同学的参考, 每个同学新建一个目录
 * 文件多于3个的目录下都有个zip文件:`.*?__等当前目录下的\d+个文件.zip`, 这样方便同学们一键下载
+
 如`数据结构`课程
 
 ```
+.
 ├ lab
-│   ├ bankSimulation
-│   ├ huffman
-│   ├ navigation
-│   └ polynomial
+│   └ README.md
 ├ ppt
 │   ├ ch3.ppt
 │   ├ ch3__等当前目录下的8个文件.zip
@@ -55,11 +54,13 @@
 │   ├ 数据结构c语言版严蔚敏PPT.ppt
 │   └ 第十章排序2015.ppt
 ├ students
-│   └ readme.md
+│   ├ mbinary
+│   └ README.md
 ├ 心得与体验
 ├ 数据结构c_严蔚敏.pdf
 └ 数据结构习题集答案(C语言版严蔚敏)_ca332.pdf
 ```
+
 
 # 课程目录
 ```
