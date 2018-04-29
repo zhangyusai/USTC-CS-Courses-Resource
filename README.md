@@ -1,18 +1,19 @@
 # USTC-CS-Courses-Resource
 >这是一个收集USTC-CS(也有较少的其他课程)的课程资源的repo,包括课程电子版书籍,参考书,ppt,考试试卷,学习心得,某些书的答案.目的是为同学们,尤其是学弟学妹提供参考
 
-# 结构
+
+
+# [贡献者名单](https://github.com/USTC-Courses/CS/graphs/contributors)
+
+# [网页浏览版](https://mbinary.coding.me/ustc-cs/)
+
+# 课程结构
 每门课程大致结构如下,某些栏目可有可无
 * PPT
 * homework & lab
 * reference & textbook
 * 课程主页
 * 学习心得与经验
-
-# [贡献者名单](https://github.com/USTC-Courses/CS/graphs/contributors)
-# [网页浏览版](https://mbinary.coding.me/ustc-cs/)
-
-
 
 # 课程目录
 ```
@@ -67,9 +68,11 @@
 
 ## 投稿方式
 建议fork & PR,也可以发给管理员,帮忙上传 
+
 ## 投稿建议
 * 由于github上不能直接上传大于100mb的文件, 所以就不要上传太大的文件. 可以存在云盘, 然后将云盘链接发在这里.
 * 若是自己原创的作品,可以在文件名后加上后缀,如`-16-计-王小二`, 文件里也可以写上联系方式, 当然不写也行.
+
 ## 管理要求
 若想帮忙管理(collaborator), 请联系管理员. 
 
@@ -77,7 +80,6 @@
 
 
 # 版权声明
-所有资源,著作权归原作者所有, 此repo的目的是**`学习交流`**.
+所有资源,著作权归原作者所有, 此repo的目的是**学习交流**.
 如果使用者的不当使用造成不良后果, 与此repo的贡献者无关.
-
 
