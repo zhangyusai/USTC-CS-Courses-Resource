@@ -1,7 +1,20 @@
 # USTC-CS-Courses-Resource
 >这是一个收集USTC-CS(也有较少的其他课程)的课程资源的repo,包括课程电子版书籍,参考书,ppt,考试试卷,学习心得,某些书的答案.目的是为同学们,尤其是学弟学妹提供参考
 
+# Table of Content
+<!-- vim-markdown-toc GFM -->
 
+* [贡献者名单](#贡献者名单)
+* [网页浏览版](#网页浏览版)
+* [课程结构](#课程结构)
+* [课程目录](#课程目录)
+* [管理与投稿](#管理与投稿)
+	* [投稿方式](#投稿方式)
+	* [投稿建议](#投稿建议)
+	* [管理要求](#管理要求)
+* [版权声明](#版权声明)
+
+<!-- vim-markdown-toc -->
 
 # [贡献者名单](https://github.com/USTC-Courses/CS/graphs/contributors)
 
