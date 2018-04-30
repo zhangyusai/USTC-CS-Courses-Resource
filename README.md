@@ -21,7 +21,7 @@
 * 一些课程虽然在目录中,但是资源还是较少,不齐全,希望大家积极贡献
 * 管理的工作量还是比较大的(目前,初期),希望能有人帮忙(collaborator),我将不胜感激
 * 希望对这个项目感兴趣的同学帮忙宣传,有看法的同学提出建议(通过issue,email,或者qq私聊)
-* 如果其他学院的同学感兴趣,可以在[ustc-courses](https://github.com/USTC-Courses/CS)这个org中新建属于其他学院的repo,管理与维护
+* 如果其他学院的同学感兴趣,可以在[ustc-courses](https://github.com/USTC-Courses/)这个org中新建(先联系我加入org)属于其他学院的repo,管理与维护
 
 # [贡献者名单](https://github.com/USTC-Courses/CS/graphs/contributors)
 

@@ -1,0 +1,15 @@
+0.4
+2016.2
+C:/Users/mbinary/Desktop/cod/verilog/fsm/alu.v,1524108078,verilog,,,,,,,,,,,
+C:/Users/mbinary/Desktop/cod/verilog/fsm/control.v,1524106805,verilog,,,,,,,,,,,
+C:/Users/mbinary/Desktop/cod/verilog/fsm/fsm.sim/sim_1/behav/glbl.v,1464879896,verilog,,,,,,,,,,,
+C:/Users/mbinary/Desktop/cod/verilog/fsm/fsm.srcs/sources_1/ip/ram/sim/ram.v,1524135651,verilog,,,,,,,,,,,
+C:/Users/mbinary/Desktop/cod/verilog/fsm/test.v,1524107275,verilog,,,,,,,,,,,
+C:/Users/mbinary/Desktop/cod/verilog/fsm/top.v,1524106791,verilog,,,,,,,,,,,
+D:/vivado/vivadofile/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_base.sv,1465086321,verilog,,,,,,,,,,,
+D:/vivado/vivadofile/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_dpdistram.sv,1465086322,verilog,,,,,,,,,,,
+D:/vivado/vivadofile/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_dprom.sv,1465086322,verilog,,,,,,,,,,,
+D:/vivado/vivadofile/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_sdpram.sv,1465086322,verilog,,,,,,,,,,,
+D:/vivado/vivadofile/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_spram.sv,1465086322,verilog,,,,,,,,,,,
+D:/vivado/vivadofile/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_sprom.sv,1465086322,verilog,,,,,,,,,,,
+D:/vivado/vivadofile/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_tdpram.sv,1465086322,verilog,,,,,,,,,,,
