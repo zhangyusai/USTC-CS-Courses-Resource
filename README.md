@@ -109,6 +109,7 @@
 └ 自由选修 - 经管类
     ├ 会计学原理
 	└ 微观经济学
+	
 ```
 
 
@@ -129,15 +130,15 @@
 
 首先用网页操作，创建你想要的目录（已有的可以直接用）, 如在公选课目录下创建`人工智障`,
 然后在 cli 执行
-```shelll
+```shell
 mkdir ustc-courses  #文件夹名可以自己取
 cd ustc-courses
 git init
 git remote add -f origin  git@github.com:mbinary/USTC-CS-Courses-Resource.git
 git config core.sparsecheckout true
-echo "公选课 / 人工智障"  >> .git/info/sparse-checkout  #这里工作目录就是在那个 repo 主页下
+echo "公选课/人工智障"  >> .git/info/sparse-checkout  #这里工作目录就是在那个 repo 主页下
 
-#如果还有其他目录，都像上面一样加入即可，如 `echo  "大二上 /ICS/ppt" >> .git/info/sparse-checkout`
+#如果还有其他目录，都像上面一样加入即可，如 `echo  "大二上/ICS/ppt" >> .git/info/sparse-checkout`
 #只需记住的是 加入的目录应该在远程仓库存在，否则报错“error: Sparse checkout leaves no entry on the working directory”
 
 git pull origin master
