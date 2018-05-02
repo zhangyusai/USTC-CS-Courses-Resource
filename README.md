@@ -21,7 +21,7 @@
 * 已初步整理了现有课程资源,整理工作包括将各文件按上述的课程结构分好类，删除一些不合适的资料（比如作业代码（欢迎非非作业代码）)
 * 一些课程虽然在目录中，但是资源还是较少，不齐全，希望大家积极贡献
 * 管理的工作量还是比较大的（目前，初期）, 希望能有人帮忙 (collaborator), 我将不胜感激
-* 希望对这个项目感兴趣的同学帮忙宣传，有看法的同学提出建议（通过 [issue](https://github.com/mbinary/USTC-CS-Courses-Resource/issues/new),[email](mailto:zhuheqin@mail.ustc.edu.cn?subject=%E5%8F%8D%E9%A6%88%E4%B8%8E%E5%BB%BA%E8%AE%AE), 或者 [qq](http://wpa.qq.com/msgrd?v=3&uin=414313516&site=qq&menu=yes))
+* 希望对这个项目感兴趣的同学帮忙宣传，有看法的同学提出建议（通过 [issue](https://github.com/mbinary/USTC-CS-Courses-Resource/issues/new),<a href="mailto:zhuheqin@mail.ustc.edu.cn?subject=%E5%8F%8D%E9%A6%88%E4%B8%8E%E5%BB%BA%E8%AE%AE">mail</a>, 或者 [qq](http://wpa.qq.com/msgrd?v=3&uin=414313516&site=qq&menu=yes))
 * 如果其他学院的同学感兴趣，可以在 [ustc-courses](https://github.com/USTC-Courses/) 这个 org 中新建（先联系我加入 org) 属于其他学院的 repo, 管理与维护
 
 # [贡献者名单](https://github.com/USTC-Courses/CS/graphs/contributors)
@@ -65,51 +65,56 @@
 
 # 课程目录
 ```
+├ Change-Log.md
 ├ README.md
-├ tmp
-│   ├ pic
-│   └ 体系结构
 ├ 书籍推荐
 │   └ 《腾讯传》推荐.pdf
 ├ 公选课
 │   ├ 交响乐赏析
-│   ├ 技术，财富与文明变迁
+│   ├ 技术,财富与文明变迁
 │   ├ 物联网导论
-│   └ 计算机系统详解 (csapp)
+│   ├ 网络安全基础及应用
+│   └ 计算机系统详解(csapp)
+├ 大一下
+│   └ 代数结构
+├ 大一暑假小学期
+│   └ 程设2 孙广中
 ├ 大三上
-│   ├ Web- 信息处理与应用
+│   ├ Web-信息处理与应用
 │   ├ 密码学
 │   ├ 微机原理
-│   ├ 程序设计语言基础（英）
+│   ├ 程序设计语言基础(英)
 │   ├ 算法基础
-│   ├ 编译原理和技术 (H)
+│   ├ 编译原理和技术(H)
 │   ├ 计算机网络
 │   └ 随机过程
 ├ 大三下
 │   └ 计算方法
 ├ 大二上
 │   ├ ICS
+│   ├ README.md
 │   ├ 光学与原子物理
 │   ├ 数据结构
 │   ├ 数电实验
 │   └ 魔术
 ├ 大二下
 │   ├ osh
+│   ├ README.md
 │   ├ 操作系统原理与设计
+│   ├ 数理方程
 │   ├ 数理逻辑
-│   ├ 概率论与数理统计 B
+│   ├ 概率论与数理统计B
 │   ├ 计算机组成原理
 │   ├ 运筹学基础
 │   └ 重要思想概论
-├ 自由选修 - 其他
-├ 自由选修 - 数学类
+├ 自由选修-其他
+├ 自由选修-数学类
 │   └ README.md
-├ 自由选修 - 物理类
+├ 自由选修-物理类
 │   └ README.md
-└ 自由选修 - 经管类
+└ 自由选修-经管类
     ├ 会计学原理
-	└ 微观经济学
-	
+    └ 微观经济学
 ```
 
 
@@ -124,7 +129,7 @@
 
 * 用命令行的 git  fork and pull request
 
-提醒一下这个仓库很大，（目前 2g 左右）
+提醒一下这个仓库很大，（目前 3g 左右）
 所以如果直接 clone 很慢。
 可以使用 sparse-checkout, 只下载你指定的目录
 
