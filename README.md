@@ -125,11 +125,12 @@
 
 * 发给管理员帮忙上传
 
-* 用网页直接操作，fork and pull request
+* 用网页或者[桌面版](https://desktop.github.com/)直接操作，fork and pull request, 
+   操作方式可以参考 [这里](https://blog.csdn.net/qq_29277155/article/details/51048990)和[这里](https://blog.csdn.net/zhangw0_0/article/details/50667891)
 
 * 用命令行的 git  fork and pull request
 
-提醒一下这个仓库很大，（目前 3g 左右）
+对于用命令行的同学,提醒一下这个仓库很大（2018-5-2时已有 3G左右）
 所以如果直接 clone 很慢。
 可以使用 sparse-checkout, 只下载你指定的目录
 
