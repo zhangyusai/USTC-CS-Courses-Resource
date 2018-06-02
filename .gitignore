@@ -1,8 +1,8 @@
-.*
+.git/**
 !.gitignore
 index.html
 do.sh
-
+.codes/**
 # use two star ** to repr any internal dir
 .bigFile/**
 ./*.zip
