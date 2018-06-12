@@ -5,28 +5,32 @@
 <!-- vim-markdown-toc GFM -->
 
 * [公告](#公告)
+* [文件浏览版](#文件浏览版)
 * [贡献者名单](#贡献者名单)
-* [网页浏览版](#网页浏览版)
 * [课程结构](#课程结构)
 * [课程目录](#课程目录)
 * [管理与投稿](#管理与投稿)
-	* [投稿方式](#投稿方式)
-	* [投稿建议](#投稿建议)
-	* [管理工作](#管理工作)
-	* [管理要求](#管理要求)
+    * [投稿方式](#投稿方式)
+    * [投稿建议](#投稿建议)
+    * [管理工作](#管理工作)
+    * [管理要求](#管理要求)
 * [版权声明](#版权声明)
 
 <!-- vim-markdown-toc -->
+
 # 公告
 * 已初步整理了现有课程资源,整理工作包括将各文件按上述的课程结构分好类，删除一些不合适的资料（比如作业代码（欢迎非非作业代码）)
 * 一些课程虽然在目录中，但是资源还是较少，不齐全，希望大家积极贡献
-* 管理的工作量还是比较大的（目前，初期）, 希望能有人帮忙 (collaborator), 我将不胜感激
 * 希望对这个项目感兴趣的同学帮忙宣传，有看法的同学提出建议（通过 [issue](https://github.com/mbinary/USTC-CS-Courses-Resource/issues/new),<a href="mailto:zhuheqin@mail.ustc.edu.cn?subject=%E5%8F%8D%E9%A6%88%E4%B8%8E%E5%BB%BA%E8%AE%AE">mail</a>, 或者 [qq](http://wpa.qq.com/msgrd?v=3&uin=414313516&site=qq&menu=yes))
 * 如果其他学院的同学感兴趣，可以在 [ustc-courses](https://github.com/USTC-Courses/) 这个 org 中新建（先联系我加入 org) 属于其他学院的 repo, 管理与维护
 
+# [文件浏览版](https://mbinary.coding.me/ustc-cs/)
+做了[直接浏览版](https://mbinary.coding.me/ustc-cs/),有两个优点
+* 如果想下载二进制文件, 在github 这里需要点击两次(第一次显示`This file is binary and cannot be displayed inline`,需要再点`open binary file`/`Download`才行), 而在文件浏览版那里只需要一次即可下载
+* 速度肯定比github快
+
 # [贡献者名单](https://github.com/USTC-Courses/CS/graphs/contributors)
 
-# [网页浏览版](https://mbinary.coding.me/ustc-cs/)
 
 # 课程结构
 每门课程大致结构如下，有些栏目可能没有，也可以自己添加认为合理的栏目
@@ -57,7 +61,6 @@
 ├ students
 │   ├ mbinary
 │   └ README.md
-├ 心得与体验
 ├ 数据结构 c_严蔚敏.pdf
 └ 数据结构习题集答案 (C 语言版严蔚敏）_ca332.pdf
 ```
