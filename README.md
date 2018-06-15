@@ -26,8 +26,10 @@
 
 # [文件浏览版](https://mbinary.coding.me/ustc-cs/)
 做了[直接浏览版](https://mbinary.coding.me/ustc-cs/),有两个优点
+* 速度比github快
 * 如果想下载二进制文件, 在github 这里需要点击两次(第一次显示`This file is binary and cannot be displayed inline`,需要再点`open binary file`/`Download`才行), 而在文件浏览版那里只需要一次即可下载
-* 速度肯定比github快
+* 对于大的二进制文件, 移动端的不能直接下载,如下, 需要切换成 `Desktop Version` 才有 下载按钮, 很麻烦
+![](src/can-not-open-bin.jpg)
 
 # [贡献者名单](https://github.com/USTC-Courses/CS/graphs/contributors)
 
