@@ -34,7 +34,7 @@
 * 对于大的二进制文件, github 移动端的不能直接下载,如下, 需要切换成 `Desktop Version` 才有 下载按钮, 很麻烦.
 ![](src/can-not-open-bin.jpg)
 
-# [贡献者名单](https://github.com/USTC-Courses/CS/graphs/contributors)
+# [贡献者名单](https://github.com/mbinary/USTC-CS-Courses-Resource/graphs/contributors)
 
 
 # 课程结构
