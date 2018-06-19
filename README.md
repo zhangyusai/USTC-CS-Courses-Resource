@@ -11,6 +11,8 @@
 * [课程目录](#课程目录)
 * [管理与投稿](#管理与投稿)
     * [投稿方式](#投稿方式)
+        * [Fork](#fork)
+        * [更新内容并PR](#更新内容并pr)
     * [投稿建议](#投稿建议)
     * [管理工作](#管理工作)
     * [管理要求](#管理要求)
@@ -121,6 +123,7 @@
 
 ## 投稿方式
 
+### Fork
 * 发给管理员帮忙上传
 
 * 用网页或者[桌面版](https://desktop.github.com/)直接操作，fork and pull request, 
@@ -146,8 +149,16 @@ echo "公选课/人工智障"  >> .git/info/sparse-checkout  #这里工作目录
 #只需记住的是 加入的目录应该在远程仓库存在，否则报错“error: Sparse checkout leaves no entry on the working directory”
 
 git pull origin master
+git remote add upstream git@github.com:mbinary/USTC-CS-Courses-Resource.git 
 ```
-
+### 更新内容并PR
+>建议: 如果没有较大的改动, 或者在改动之前,可以删除掉以前 fork 的仓库 重新 fork
+* [使用网页操作](https://blog.csdn.net/huutu/article/details/51018317)
+* 命令行
+```shell
+git fetch upstream/master
+git merge upstream/master
+```
 
 ## 投稿建议
 * 由于 github 上不能直接上传大于 100mb 的文件，所以就不要上传太大的文件。可以存在云盘，然后将云盘链接发在这里。
