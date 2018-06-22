@@ -7,3 +7,4 @@ do.sh
 /*.zip
 /.*
 !.gitignore
+~$*
