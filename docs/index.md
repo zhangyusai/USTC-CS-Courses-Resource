@@ -33,7 +33,7 @@
 * 慢
 * 如果想下载二进制文件, 在github 需要点击两次(第一次显示`This file is binary and cannot be displayed inline`,需要再点`open binary file`/`Download`才行), 而在文件浏览版只需要一次即可下载
 * 对于大的二进制文件, github 移动端的不能直接下载,如下, 需要切换成 `Desktop Version` 才有 下载按钮, 很麻烦.
-![](docs/src/can-not-open-bin.jpg)
+![](/docs/src/can-not-open-bin.jpg)
 
 # [贡献者们](https://github.com/mbinary/USTC-CS-Courses-Resource/graphs/contributors)
 
