@@ -1,1 +1,0 @@
-# [课程主页](http://home.ustc.edu.cn/~weihuang/pde/)
