@@ -1,3 +1,15 @@
+''' mbinary
+#########################################################################
+# File : trie.py
+# Author: mbinary
+# Mail: zhuheqin1@gmail.com
+# Blog: https://mbinary.coding.me
+# Github: https://github.com/mbinary
+# Created Time: 2018-05-19  23:06
+# Description:
+#########################################################################
+'''
+
 class node:
     def __init__(self,val = None):
         self.val = val
@@ -78,9 +90,10 @@ class Trie(object):
     
 if __name__=='__main__':
     t = Trie()
-    rsts = [None,None,None,None,None,None,False,True,False,False,False,False,False,True,True,False,True,True,False,False,False,True,True,True]
     op = ["insert","insert","insert","insert","insert","insert","search","search","search","search","search","search","search","search","search","startsWith","startsWith","startsWith","startsWith","startsWith","startsWith","startsWith","startsWith","startsWith"]
     data = [["app"],["apple"],["beer"],["add"],["jam"],["rental"],["apps"],["app"],["ad"],["applepie"],["rest"],["jan"],["rent"],["beer"],["jam"],["apps"],["app"],["ad"],["applepie"],["rest"],["jan"],["rent"],["beer"],["jam"]]
+    rsts = [None,None,None,None,None,None,False,True,False,False,False,False,False,True,True,False,True,True,False,False,False,True,True,True]
+    
     for i,datum,rst in zip(op,data,rsts):
         if t.dic[i](datum[0]) != rst:print(i,datum[0],rst)
     t.display()
