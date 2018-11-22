@@ -6,7 +6,6 @@ do.sh
 /*.zip
 !.gitignore
 ~$*
-/.*
 *.o
 *.toc
 *.synctex.*
