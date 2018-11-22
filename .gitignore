@@ -11,3 +11,4 @@ do.sh
 *.synctex.*
 *.log
 *.aux
+*.pyc
