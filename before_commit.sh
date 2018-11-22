@@ -1,3 +1,3 @@
-python .utils/genZipFile.py
-python .utils/genReadme.py  -p . -d 2
+python3 .utils/genZipFile.py
+python3 .utils/genReadme.py  -p . -d 2
 
